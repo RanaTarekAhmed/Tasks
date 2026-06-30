@@ -5,7 +5,7 @@ function calculateTotal() {
     cart.forEach(product => {
         total += product.price;
     });
-    console.log(`Total: $${total}`);
+    console.log(`Total: $${total}\n`);
 }
 
 module.exports = calculateTotal;
