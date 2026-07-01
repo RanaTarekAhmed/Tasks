@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "title": "Rana",
+    "author": "Robert C. Martin",
+    "price": 500,
+    "available": true
+  }
+]
